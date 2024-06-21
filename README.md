@@ -1,6 +1,6 @@
 # Time
 
-[![Build status](https://ci.appveyor.com/api/projects/status/862v5r8wt67srl06?svg=true)](https://ci.appveyor.com/project/AACMKT/ra-hoc_time)
+[![AACMKT ra-progects](https://github.com/AACMKT/ra-hoc_time/actions/workflows/web.yml/badge.svg)](https://github.com/AACMKT/ra-hoc_time/actions/workflows/web.yml)
 
 [Ссылка на публикацию приложения на GitHub Pages](https://aacmkt.github.io/ra-hoc_time/)
 ---
